@@ -2,6 +2,7 @@
 
 #include <cstdint>
 #include <iterator>
+#include <exception>
 #include <stdlib.h>
 
 namespace goldfish
